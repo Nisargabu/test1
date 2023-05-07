@@ -1,5 +1,5 @@
 9pipeline {
-  agent any:
+  agent any
   stages {
     stages ('BUILD') {
       steps {
